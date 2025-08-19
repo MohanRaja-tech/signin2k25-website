@@ -45,7 +45,7 @@ function App() {
       ],
       coordinators: [
         { name: 'Sorna priya K', phone: '+916374959674' },
-        { name: 'Pooja shree A E', phone: 'Contact for number' }
+        { name: 'Pooja shree A E', phone: '+919791887251' }
       ],
       registrationLink: 'https://forms.gle/QFq724g2n4GwVusx7'
     },
