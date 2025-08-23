@@ -56,7 +56,7 @@ function App() {
         'Team size: Maximum 2 members per team',
         'AI tools are strictly prohibited',
         'Design tools allowed: Canva, Figma, and other professional design software',
-        'Duration: 3 hours',
+        'Duration: 1 hour',
         'Theme will be provided on the spot',
         'Final submission in PDF/PNG format',
         'Judged on creativity, visual appeal, and adherence to theme',
