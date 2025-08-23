@@ -17,7 +17,8 @@ function App() {
       title: 'Paper Presentation',
       description: 'Present your innovative ideas and research findings in a comprehensive paper presentation format.',
       rules: [
-        'Maximum 3 members per team',
+        '3 members compulsory per team',
+        
         'Presentation time: 8-10 minutes',
         'Questions: 2-3 minutes',
         'Topics should be technology-related',
