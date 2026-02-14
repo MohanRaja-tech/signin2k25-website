@@ -22,7 +22,7 @@ function App() {
         'Presentation time: 5 - 10 minutes',
         'Questions: 2-3 minutes',
         'Topics should be technology-related',
-        'PowerPoint presentation mandatory'
+        'PowerPoint presentation mandatory must'
       ],
       coordinators: [
         { name: 'Immanuvel R', phone: '+918825503860' },
