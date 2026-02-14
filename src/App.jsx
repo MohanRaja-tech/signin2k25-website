@@ -15,18 +15,19 @@ function App() {
     // Technical Events
     'stark-mind': {
       title: 'Paper Presentation',
-      description: 'Present your innovative ideas and research findings in a comprehensive paper presentation format.',
+      description: 'Present Your innovative ideas and research findings in a comprehensive paper presentation format.',
       rules: [
         '3 members compulsory per team',
         
-        'Presentation time: 8-10 minutes',
+        'Presentation time: 5 - 10 minutes',
         'Questions: 2-3 minutes',
         'Topics should be technology-related',
         'PowerPoint presentation mandatory'
       ],
       coordinators: [
         { name: 'Immanuvel R', phone: '+918825503860' },
-        { name: 'Kaviya S', phone: '+919360338092' }
+        { name: 'Kaviya S', phone: '+919360338092' },
+        {name : 'MohanRaja V' , phone : '9003948329'}
       ],
       registrationLink: 'https://forms.gle/GNSMrgkYBQXNh5m88'
     },
